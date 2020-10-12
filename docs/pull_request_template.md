@@ -1,6 +1,6 @@
-# your-name_challenge-name
+# your_name-challenge_issue_number
 
-Link the issue # that references the challenge here: #1.
+Challenge Issue Number: #1
 
 ## Implementation
 
